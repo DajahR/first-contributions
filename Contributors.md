@@ -104,7 +104,7 @@ i
 - [Lemuel Centina](https://github.com/whatataps123) **Lemuel's First open source contribution!**
 [Ullas G](https://github.com/Ullas-0-1/first-contributions)
 - [Aliya Tariq](https://github.com/Aliya-Tariq) **finally making the first open source contribution. The beginning of something NEW!.**
-- [Dajah R](https://github.com/DajahR) ** First contribution :)**
+- [Dajah R](https://github.com/DajahR) **First contribution :)**
 - [Thanh Nguyen Duc](https://github.com/ducthanhnguyen95) **First open source contribution!**
 - [Bianca Iordache](https://bento.me/biordache)
 - [Prudhvi Kovagana](https://github.com/prudhviko) **First open source contribution!**
